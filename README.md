@@ -1,6 +1,6 @@
 # my current osu skins
 
-# Click on the skin name to download~`
+# Click on the skin name to download
 
 # [Rafis 2018-03-26 HDDT](https://www.mediafire.com/file/phcsum9n4np44wh/Rafis_2018-03-26_HDDT.osk/file)
 ![](https://osu.ppy.sh/ss/16820716/afe3)
